@@ -90,4 +90,85 @@ build trust, and find their perfect life partner.
 </footer>
 
 </body>
+
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Soul Partner</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+
+<nav class="navbar">
+<div class="logo">❤️ Soul Partner</div>
+
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="search.html">Search</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="contact.html">Contact</a></li>
+<li><a href="login.html" class="btn">Login</a></li>
+<li><a href="signup.html" class="btn2">Sign Up</a></li>
+</ul>
+
+</nav>
+
+
+<section class="hero">
+
+<h1>Find Your Perfect Life Partner</h1>
+
+<p>
+Pakistan's Trusted Online Marriage Platform
+</p>
+
+<a href="signup.html" class="start-btn">
+Create Free Profile
+</a>
+
+</section>
+
+
+<section class="features">
+
+<h2>Why Choose Soul Partner?</h2>
+
+<div class="cards">
+
+<div class="card">
+<h3>100% Free Registration</h3>
+<p>Create your profile without any cost.</p>
+</div>
+
+<div class="card">
+<h3>Verified Profiles</h3>
+<p>Only genuine profiles are displayed.</p>
+</div>
+
+<div class="card">
+<h3>Secure & Private</h3>
+<p>Your information stays protected.</p>
+</div>
+
+<div class="card">
+<h3>Easy Search</h3>
+<p>Find your life partner by city, age and education.</p>
+</div>
+
+</div>
+
+</section>
+
+<footer>
+
+<p>© 2026 Soul Partner. All Rights Reserved.</p>
+
+</footer>
+
+</body>
 </html>
